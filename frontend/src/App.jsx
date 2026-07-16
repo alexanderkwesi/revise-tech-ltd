@@ -91,13 +91,13 @@ const FALLBACK_PROJECTS = [
     link: "https://smart-kanban-ashen.vercel.app/"
   },
   {
-        "category": "Location Based Coke Finder",
-        "filterCategory": "saas",
-        "title": "Find A Coke Any Where You Have One",
-        "desc": "Location Based Coke Finder using your default location or your post code",
-        "status": "Live · Retailer Coke Sourcing",
-        "tags": ["Location & Search", "SaaS ·Finder"],
-        "link": "https://coke-finder.vercel.app/"
+    category: "Location Based Coke Finder",
+    filterCategory: "saas",
+    title: "Find A Coke Any Where You Have One",
+    desc: "Location Based Coke Finder using your default location or your post code",
+    status: "Live · Retailer Coke Sourcing",
+    tags: ["Location & Search", "SaaS ·Finder"],
+    link: "https://coke-finder.vercel.app/"
   }
 ];
 
