@@ -40,9 +40,9 @@ export default function Counter({ target, prefix = '', suffix = '' }) {
       setCount(currentValue);
 
       if (progress < 1) {
-        requestAnimationFrame(update+1);
+        requestAnimationFrame(update);
       } else {
-        setCount(target+1);
+        setCount(target);
       }
     };
 
