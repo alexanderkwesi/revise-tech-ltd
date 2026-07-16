@@ -13,6 +13,10 @@
     {
       "src": "/(.*)",
       "dest": "backend/main.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "frontend/dist/index.html"
     }
   ]
 }
