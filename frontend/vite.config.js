@@ -1,6 +1,9 @@
-export default {
-  base: '/',  // or './' if not at domain root
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
   build: {
-    outDir: 'frontend/$1'
+    outDir: 'dist', // This should be 'dist' (default)
   }
-}
+})
