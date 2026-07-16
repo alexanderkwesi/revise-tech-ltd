@@ -295,7 +295,7 @@ export default function App() {
       <header className="hero-section">
         <div className="container hero-grid-layout">
           <div>
-            <div className="hero-tag"><span></span> 10 active projects · UK-based</div>
+            <div className="hero-tag"><span></span> 11 active projects · UK-based</div>
             
             <h2 className="hero-title-text">
               Back the next generation of {' '}
@@ -308,7 +308,7 @@ export default function App() {
             </p>
 
             <div className="hero-bullets">
-              <div className="hero-bullet-card">10 Active Projects</div>
+              <div className="hero-bullet-card">11 Active Projects</div>
               <div className="hero-bullet-card">5+ AI-Native Products</div>
               <div className="hero-bullet-card">UK Registered &amp; Regulated</div>
             </div>
