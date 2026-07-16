@@ -13,10 +13,6 @@
     {
       "src": "/(.*)",
       "dest": "backend/main.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "package.json"
     }
   ]
 }
