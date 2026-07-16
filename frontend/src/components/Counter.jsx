@@ -37,7 +37,7 @@ export default function Counter({ target, prefix = '', suffix = '' }) {
       const ease = progress * (2 - progress); // easeOutQuad
       const currentValue = Math.floor(ease * target);
 
-      setCount(currentValue);
+      setCount(currentValue + 1);
 
       if (progress < 1) {
         requestAnimationFrame(update);
