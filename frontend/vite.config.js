@@ -1,5 +1,5 @@
 export default {
-  base: './',  // or './' if not at domain root
+  base: '/',  // or './' if not at domain root
   build: {
     outDir: 'frontend/$1'
   }
