@@ -185,5 +185,5 @@ def post_enquiry(request: EnquiryRequest):
 
 
 if __name__ == "__main__":
-    app.run(app, host="0.0.0.0", port="8000")
+    app.run(app, host="localhost", port="8000")
 
