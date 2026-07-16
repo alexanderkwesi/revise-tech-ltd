@@ -4,6 +4,9 @@
     {
       "src": "frontend/package.json",
       "use": "@vercel/static-build",
+      "config": {
+        "outputDirectory": "dist"
+      }
     },
     {
       "src": "backend/main.py",
