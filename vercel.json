@@ -2,13 +2,6 @@
   "version": 2,
   "builds": [
     {
-      "src": "frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "buildCommand": "npm run build && cd dist && --open index.html"
-      }
-    },
-    {
       "src": "backend/main.py",
       "use": "@vercel/python",
       "config": {
