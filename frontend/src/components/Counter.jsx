@@ -59,7 +59,7 @@ export default function Counter({ target, prefix = '', suffix = '' }) {
   return (
     <span ref={elementRef}>
       {prefix}
-      {formatValue(count)}
+      {formatValue(count+1)}
       {suffix}
     </span>
   );
