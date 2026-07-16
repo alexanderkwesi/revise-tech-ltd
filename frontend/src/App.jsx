@@ -323,7 +323,7 @@ export default function App() {
           <div className="mondrian-board">
             <div className="mondrian-cell mondrian-cell-1">
               <span className="mondrian-number">
-                <Counter target={10} />
+                <Counter target={11} />
               </span>
               <span className="mondrian-label">Active Portfolio Projects</span>
               <span className="mondrian-desc">Diverse incubation stage across multiple technology sectors.</span>
