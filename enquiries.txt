@@ -1,0 +1,32 @@
+=========================================
+TIMESTAMP:   2026-07-14 21:49:49
+NAME:        Sarah
+EMAIL:       sarahlancaster146@gmail.com
+ORGANIZATION: Sarah Lancaster
+TICKET SIZE: 
+MESSAGE:
+Hi,
+
+I run an account on X with 800K+ active followers, and wanted to reach out about revise-tech.co.uk specifically.
+
+I just opened a $3/mo subscriber tier, and I&#039;m inviting site owners in before opening it up publicly. The launch bundle includes:
+
+- A monthly retweet — I&#039;ll amplify your best post each month to my followers.
+- 2 guides (WordPress Optimization + YouTube Traffic) with full resell rights — rebrand, use as lead magnets, or sell and keep 100%.
+- A new guide each month, same rights, plus the full back-catalog on signup.
+
+If this interests you, reply to this email and I&#039;ll send over the account + the link — I&#039;m only reaching out to a small number of sites initially.
+
+Sarah
+=========================================
+
+=========================================
+TIMESTAMP:   2026-07-15 16:01:28
+NAME:        Jane Test
+EMAIL:       jane@example.com
+ORGANIZATION: Test Fund
+TICKET SIZE: £100k
+MESSAGE:
+Testing integration of FastAPI backend via urllib.
+=========================================
+
