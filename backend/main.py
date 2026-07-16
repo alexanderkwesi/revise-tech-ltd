@@ -182,3 +182,8 @@ def post_enquiry(request: EnquiryRequest):
             status_code=500,
             detail="Unable to process the request locally, but your parameters are valid."
         )
+
+
+if __name__ == "__main__":
+    app.run(app, host="0.0.0.0", port="8000")
+
